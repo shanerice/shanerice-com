@@ -28,9 +28,9 @@ That all changed with Star Wars 001. It picks up where Episode IV left off: the 
 
 Seriously, I'm not going to talk about the story here because you should go buy this book! 
 
-Go to your [local comic book shop](http://www.comicshoplocator.com/Home/1/1/57/575) and see if they have any of the nifty pins from this launch left. See if they have any prints left of the awesome Skottie Young variant cover from the top of this post. If you're local to Pensacola, I highly [recommend Pensacola Pop Comics on 12th Ave.](http://www.pensacolapopcomics.com/)
+Go to your [local comic book shop](http://www.comicshoplocator.com/Home/1/1/57/575) and see if they have any of the nifty pins from this launch left. See if they have any prints left of the awesome Skottie Young variant cover from the top of this post. If you're local to Pensacola, I highly [recommend Pensacola Pop Comics on 12th Ave.](https://www.pensacolapopcomics.com/)
 
-Don't want to visit your comic shop. No problem. Download it in the Marvel app on [iOS](https://itunes.apple.com/us/app/marvel-comics/id350027738?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.marvel.comics), because [Amazon killed Comixology.](http://www.vox.com/2014/5/3/5675984/how-amazon-and-comixology-betrayed-comic-book-readers)
+Don't want to visit your comic shop. No problem. Download it in the Marvel app on [iOS](https://itunes.apple.com/us/app/marvel-comics/id350027738?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.marvel.comics), because [Amazon killed Comixology.](https://www.vox.com/2014/5/3/5675984/how-amazon-and-comixology-betrayed-comic-book-readers)
 
 And get ready, because next month Marvel will be launching a new title: Vader. An entire series focused on the baddest Jedi to ever grace the big screen.
 
