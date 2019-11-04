@@ -6,8 +6,11 @@ import { rhythm } from "../utils/typography"
 
 class Page extends React.Component {
   render() {
+    const { data } = this.props
+    const siteTitle = data.site.siteMetadata.title
+    
     return (
-      <Layout>
+      <Layout location={this.props.location} title={siteTitle}>
         <SEO title="Fastly" />
               <header>
                 <h3
@@ -27,3 +30,13 @@ class Page extends React.Component {
 }
 
 export default Page
+
+export const pageQuery = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+  }
+`
