@@ -2,10 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Shane Rice`,
     author: `Shane Rice`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Marketing, family, stories. Sometimes in that order.`,
+    siteUrl: `https://shanerice.com/`,
     social: {
       twitter: `shanerice`,
+      gitlab: `shanerice`
     },
   },
   plugins: [
